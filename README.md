@@ -2,13 +2,13 @@
 The main goal is to give insight to AWS (Amazon Web Service) company, which focuses on SaaS features, to understand and optimize their business performance especially if profitability of company are negative because of factors likely based on company`s sales performance, customer segment, and company market
 
 ## Background
-
+<img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--7DGSTDqu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.grosch.se/dev-to/building-saas-on-aws/building-saas-on-aws-promo-1000x420.png'>
 **AWS (Amazon Web Service)** is a Cloud Computing service from Amazon company. AWS is one of top choices for cloud computing with a series of advantages and features. Cloud Computing allows user for large-scale data storage [(Aws-Amazon, 2023)](https://aws.amazon.com/id/what-is-aws/). This technology is essentially an answer to the needs of modern business players in many industry. In this current state, there have been a series of Cloud Computing names with various classes and types of services, including AWS [(Meilinaeka, 2023)](https://it.telkomuniversity.ac.id/aws-amazon-web-service-cloud-cloud-computing-andalan/).
 
 With its market potential, as a Data Analyst we could identify **patterns and trends** in sales volume and product preferences across different industries and customer segments. Also, we could explore other **companies buying behaviors** including purchase frequency, preferred products, and geographic distribution of customers especially in SaaS sales.
 
 ### Business Problem Statements
-
+<img src = 'https://www.cloudysave.com/wp-content/uploads/2020/03/AWS-SaaS-Factory.png'>
 The AWS (Amazon Web Service) company focusing on SaaS feature is a company that sells sales and marketing software to other companies (B2B). They have collected transactions data from their customer.
 
 1. **Analyze the company’s sales performance.** Identify the key factors that influence sales and profit especially for negative profits. This could include the impact of discounts on sales, the performance of different products, or sales trends over time.
@@ -85,7 +85,7 @@ The Marketing Suite product consistently portrays a negative profitability trend
 3. Profitability Dynamics: The strong negative correlation between discounts and profit/profit margin indicates that higher discounts adversely affect profitability. This suggests a need for a reevaluation of the discount strategy to maintain a balance between boosting sales and preserving profits.
 
 ### Recommendation
-
+<img src = 'https://cdn.romexsoft.com/wp-content/uploads/2022/07/Key-takeaways-for-successfully-building-a-modern-Saas-app.svg'>
 **1.Srategic Customer Engagement:**
 
 - Focus on understanding the motivations of high-frequency customers like BNP Paribas and Wells Fargo to leverage these insights for better engagement strategies.
@@ -108,7 +108,7 @@ The Marketing Suite product consistently portrays a negative profitability trend
 
 ## Authors
 
-* **Hieremias Kevin Juwantoro** - *Initial work* - [PurpleBooth](https://github.com/kevinjuwantoro/AWS-SaaS-Sales-Data-Analysis/blob/main/AWS%20SaaS%20Sales%20Capstone%202_Hieremias%20Kevin%20Juwantoro.IPYNB)
+* **Hieremias Kevin Juwantoro** - *Initial work* - (https://github.com/kevinjuwantoro/AWS-SaaS-Sales-Data-Analysis/blob/main/AWS%20SaaS%20Sales%20Capstone%202_Hieremias%20Kevin%20Juwantoro.IPYNB)
 
 
 
